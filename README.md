@@ -70,6 +70,10 @@ Player vs Player mode
 
 Online multiplayer
 ---
+🤝 Contributions
+
+Feel free to fork this repo and submit pull requests. Suggestions and improvements are welcome!
+---
 📜 License
 
 Licensed under the MIT License.
